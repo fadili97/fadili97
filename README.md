@@ -1,7 +1,7 @@
 # Mohamed ELFADILY
 
 **Ingénieur Topographe | Entrepreneur | GIS Solutions Architect**
-🏢 Founder & CEO @ [ELFADILY GEOCONSEIL](https://github.com/fadili97/topotools)
+🏢 Founder & CEO @ [ELFADILY GEOCONSEIL](https://elfadilygeoconseil.com)
 📍 Morocco
 
 ---
@@ -68,16 +68,6 @@ Python-based workflows for coordinate transformation, data validation, and repor
 - **Email:** contact@elfadilygeoconseil.com
 - **Company:** [ELFADILY GEOCONSEIL](https://www.elfadilygeoconseil.com)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/mohamed-elfadily-a0a269159)
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadili97&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadili97&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
